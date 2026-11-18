@@ -1,0 +1,3 @@
+version=1.0.0
+get=https://example.com/SheetsmithPDF-Setup.exe
+note=
